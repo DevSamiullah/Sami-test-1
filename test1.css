@@ -1,0 +1,11 @@
+
+.image-container {
+  display: inline-block;
+  border: 5px solid red;
+  padding: 10px;
+  transition: border-color 0.3s ease;
+}
+
+.image-container:hover {
+  border-color: green;
+}
